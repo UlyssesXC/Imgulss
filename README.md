@@ -1,2 +1,2 @@
 # Imgulss
-image for ulss.tech
+image for http://ulss.tech/
